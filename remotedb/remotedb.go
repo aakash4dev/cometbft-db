@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	db "github.com/cometbft/cometbft-db"
-	"github.com/cometbft/cometbft-db/remotedb/grpcdb"
-	protodb "github.com/cometbft/cometbft-db/remotedb/proto"
+	db "github.com/aakash4dev/cometbft-db"
+	"github.com/aakash4dev/cometbft-db/remotedb/grpcdb"
+	protodb "github.com/aakash4dev/cometbft-db/remotedb/proto"
 )
 
 type RemoteDB struct {

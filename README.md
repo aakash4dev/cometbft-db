@@ -1,11 +1,11 @@
 # CometBFT DB
 
-[![version](https://img.shields.io/github/tag/cometbft/cometbft-db.svg)](https://github.com/cometbft/cometbft-db/releases/latest)
-[![license](https://img.shields.io/github/license/cometbft/cometbft-db.svg)](https://github.com/cometbft/cometbft-db/blob/main/LICENSE)
-[![API Reference](https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667)](https://pkg.go.dev/github.com/cometbft/cometbft-db)
+[![version](https://img.shields.io/github/tag/cometbft/cometbft-db.svg)](https://github.com/aakash4dev/cometbft-db/releases/latest)
+[![license](https://img.shields.io/github/license/cometbft/cometbft-db.svg)](https://github.com/aakash4dev/cometbft-db/blob/main/LICENSE)
+[![API Reference](https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667)](https://pkg.go.dev/github.com/aakash4dev/cometbft-db)
 [![codecov](https://codecov.io/gh/cometbft/cometbft-db/branch/main/graph/badge.svg)](https://codecov.io/gh/cometbft/cometbft-db)
-![Lint](https://github.com/cometbft/cometbft-db/workflows/Lint/badge.svg?branch=main)
-![Test](https://github.com/cometbft/cometbft-db/workflows/Test/badge.svg?branch=main)
+![Lint](https://github.com/aakash4dev/cometbft-db/workflows/Lint/badge.svg?branch=main)
+![Test](https://github.com/aakash4dev/cometbft-db/workflows/Test/badge.svg?branch=main)
 
 A fork of [tm-db].
 
@@ -84,6 +84,6 @@ make docker-test
 ```
 
 [tm-db]: https://github.com/tendermint/tm-db
-[CometBFT]: https://github.com/cometbft/cometbft-db
+[CometBFT]: https://github.com/aakash4dev/cometbft-db
 [Cosmos SDK]: https://github.com/cosmos/cosmos-sdk
-[cometbft/cometbft\#48]: https://github.com/cometbft/cometbft/issues/48
+[cometbft/cometbft\#48]: https://github.com/aakash4dev/cometbft/issues/48

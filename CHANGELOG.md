@@ -20,12 +20,12 @@ releases.
 ### DEPENDENCIES
 
 - Use RocksDB v8, testing with v8.8.1
-  ([\#97](https://github.com/cometbft/cometbft-db/pull/97))
+  ([\#97](https://github.com/aakash4dev/cometbft-db/pull/97))
 
 ### GO VERSION
 
 - Bump minimum Go version to v1.21
-  ([\#98](https://github.com/cometbft/cometbft-db/pull/98))
+  ([\#98](https://github.com/aakash4dev/cometbft-db/pull/98))
 
 ## v0.8.0
 
@@ -44,14 +44,14 @@ upgrade to the latest version(s) of Go ASAP.
 ### COMPILER
 
 - Bump minimum Go version to 1.19
-  ([\#40](https://github.com/cometbft/cometbft-db/pull/40))
+  ([\#40](https://github.com/aakash4dev/cometbft-db/pull/40))
 
 ### DEPENDENCIES
 
 - Switch rocksdb binding from gorocksdb to grocksdb, bump librocksdb dependency
-  to `v7.10.2` ([\#42](https://github.com/cometbft/cometbft-db/pull/42))
+  to `v7.10.2` ([\#42](https://github.com/aakash4dev/cometbft-db/pull/42))
 - Update to the latest version of golang.org/x/net
-  ([\#40](https://github.com/cometbft/cometbft-db/pull/40))
+  ([\#40](https://github.com/aakash4dev/cometbft-db/pull/40))
 
 ## v0.7.0
 
@@ -61,15 +61,15 @@ This is the first official release of CometBFT DB, which is a fork of
 [tm-db](https://github.com/tendermint/tm-db).
 
 This fork is intended to be used by
-[CometBFT](https://github.com/cometbft/cometbft) until such time that
-[cometbft/cometbft\#48](https://github.com/cometbft/cometbft/issues/48) is
+[CometBFT](https://github.com/aakash4dev/cometbft) until such time that
+[cometbft/cometbft\#48](https://github.com/aakash4dev/cometbft/issues/48) is
 resolved, after which time this fork will be retired and archived. Do not use
 this as a dependency in any new projects.
 
 ### BREAKING CHANGES
 
 - Fork tm-db and rename fork to cometbft-db
-  ([\#7](https://github.com/cometbft/cometbft-db/issues/7))
+  ([\#7](https://github.com/aakash4dev/cometbft-db/issues/7))
 
 ---
 
